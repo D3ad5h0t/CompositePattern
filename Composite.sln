@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{EE5FD68C-EEB2-46CF-B974-6F20B88B15A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{B123DB5B-C7F6-468D-BEEB-F76F1CC808FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{EE5FD68C-EEB2-46CF-B974-6F20B88B15A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE5FD68C-EEB2-46CF-B974-6F20B88B15A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE5FD68C-EEB2-46CF-B974-6F20B88B15A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B123DB5B-C7F6-468D-BEEB-F76F1CC808FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B123DB5B-C7F6-468D-BEEB-F76F1CC808FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B123DB5B-C7F6-468D-BEEB-F76F1CC808FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B123DB5B-C7F6-468D-BEEB-F76F1CC808FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
